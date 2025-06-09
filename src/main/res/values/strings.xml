@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">图书馆订座app</string>
+    <string name="reservation_seats">预订座位</string>
+    <string name="check_seats">查看座位</string>
+    <string name="personal_information">个人信息</string>
+    <string name="step">名言警句</string>
+    <string name="exit">退出登录</string>
+</resources>
